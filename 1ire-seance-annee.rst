@@ -26,11 +26,13 @@ On rappelle les consignes d'Hygiènes :
 Ligne d'eaux
 ------------
 
+Fosse :
+
 +----------+
-| Fosse    |
-|          |
 | Baptêmes |
 +----------+
+
+Organisation piscine :
 
 +-------------------------------------------------+
 | Ligne 1 : PN1                                   |
