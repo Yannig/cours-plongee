@@ -28,6 +28,7 @@ Ligne d'eaux
 
 +----------+
 | Fosse    |
+|          |
 | Baptêmes |
 +----------+
 
