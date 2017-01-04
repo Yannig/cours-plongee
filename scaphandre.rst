@@ -33,6 +33,7 @@ Présentation aux élèves
 - Justification : savoir gréer son bloc tout seul.
 - Critères de réussite : attache sa stab correctement, branche son détendeur et son direct système, pression sur mano et teste de son détendeur.
 - Descriptif technique de l'exercice :
+
   - Démonstration / explication au sec ;
   - Élément de théorie : boucle de la stab (0213) ;
   - Contrôle orale des prérequis.
